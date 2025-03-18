@@ -44,10 +44,6 @@ The application then generates the specified quantity of unique random numbers w
 * This project uses only vanilla JavaScript, HTML, and CSS. No external libraries are required.
 * Fonts from Google Fonts are used.
 
-## Author
-
-* [Your Name/Github Username]
-
 ## Notes
 
 * The CSS file `style.css` provides the styling for the application.
